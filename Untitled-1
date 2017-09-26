@@ -1,0 +1,40 @@
+city_of(arsenal,london).
+city_of(bournemouth,bournemouth).
+city_of(brighton, brighton).
+city_of(burnley, burnley).
+city_of(c_Palace, london).
+city_of(chelsea, london).
+city_of(everton, liverpool).
+city_of(huddersfield, huddersfield).
+city_of(leicestor, leicestor).
+city_of(liverpool, liverpool).
+city_of(man_city, manchester).
+city_of(man_Utd, manchester).
+city_of(newcastle, newcastle).
+city_of(southamton, hants).
+city_of(stoke, stoke).
+city_of(swansea, west_Glamogan).
+city_of(tottenham, london).
+city_of(watford, hertfordshire).
+city_of(west_Borm, west_Mids).
+city_of(west_Ham, london).
+year_from(arsenal, 1886).
+year_from(bournemouth, 1899).
+year_from(brighton, 1901).
+year_from(burnley, 1882).
+year_from(c_Palace, 1905).
+year_from(chelsea, 1905).
+year_from(everton, 1878).
+year_from(huddersfield, 1908).
+year_from(leicestor, 1884)
+year_from(liverpool, 1892)
+year_from(man_city, 1887)
+year_from(man_Utd, 1878)
+year_from(newcastle, 1892)
+year_from(southamton, 1885)
+year_from(stoke, 1863)
+year_from(swansea, 1912)
+year_from(tottenham, 1882)
+year_from(watford, 1881)
+year_from(west_Borm, 1878)
+year_from(west_Ham,1895)
