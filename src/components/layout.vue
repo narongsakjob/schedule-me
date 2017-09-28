@@ -1,14 +1,25 @@
 <template>
   <div>
-    <div id="main-bar">asdads</div>
-    <div id="side-bar">asddsa</div>
+    <div id="main-bar">
+      <app-main-bar></app-main-bar>
+    </div>
+    <div id="side-bar">
+      <app-side-bar></app-side-bar>
+    </div>
   </div>
 </template>
 
 <script>
+import Mainbar from './mainbar/index'
+import Sidebar from './sidebar/index'
+
 export default {
   name: 'layout',
   data () {
+  },
+  components: {
+    'app-main-bar': Mainbar,
+    'app-side-bar': Sidebar
   }
 }
 </script>
