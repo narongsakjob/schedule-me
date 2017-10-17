@@ -3,8 +3,10 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import FullCalendar from 'vue-full-calendar'
 
 Vue.config.productionTip = false
+Vue.use(FullCalendar)
 
 /* eslint-disable no-new */
 new Vue({
